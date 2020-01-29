@@ -1,0 +1,2 @@
+# QueryArrayJavaApp
+abc
